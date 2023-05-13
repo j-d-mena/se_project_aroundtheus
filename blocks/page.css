@@ -1,0 +1,28 @@
+.page {
+  background-color: black;
+  color: white;
+}
+
+.page__content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.page__section {
+  max-width: 880px;
+  width: 100%;
+  /* may not be needed because the "relative" value for the "position" property already postions an element according to the normal flow of the document
+  
+    position: relative;
+    
+    */
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1100px) {
+  .page__section {
+    margin: 0 20px;
+    max-width: calc(100% - 40px);
+  }
+}
