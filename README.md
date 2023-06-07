@@ -36,4 +36,4 @@ This project was made to address the problem of webpages looking different depen
 
 ### GitHub Pages Link
 
-[aroundtheus](https://github.com/j-d-mena/se_project_aroundtheus.git)
+[aroundtheus](https://j-d-mena.github.io/se_project_aroundtheus/)
