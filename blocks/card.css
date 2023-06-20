@@ -40,3 +40,7 @@
   height: 18px;
   border: none;
 }
+
+.card__like-button:hover {
+  cursor: pointer;
+}

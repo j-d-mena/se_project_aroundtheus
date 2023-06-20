@@ -12,8 +12,5 @@
   max-width: 318px;
 }
 
-@media screen and (max-width: 480px) {
-  .footer__content {
-    max-width: 282px;
-  }
+@media screen and (max-width: 320px) {
 }
